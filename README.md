@@ -16,16 +16,16 @@ This project does not rely on a predefined dataset but operates in real-time usi
 ________________________________________
 2. Implementation Details
 Methodology & Approach
-1. Real-Time Emotion Detection
+ Real-Time Emotion Detection
 •	Speech Recognition: Uses speech recognition to convert spoken words into text.
 •	Facial Emotion Detection: Uses DeepFace to classify emotions from live video.
 2. Task Recommendation System
 •	Emotion-based suggestions: A predefined mapping recommends tasks based on the detected mood.
 •	AI-based Task Matching: Uses sentence-transformers to improve task allocation.
-3. Historical Mood Tracking
+   Historical Mood Tracking
 •	Stores detected emotions in a SQLite database.
 •	Analyzes trends to identify long-term mood patterns.
-4. Stress Management Alerts
+   Stress Management Alerts
 •	Triggers alerts if an employee shows prolonged stress.
 •	Uses threshold-based detection (e.g., 3 out of 5 recent emotions are negative).
 ________________________________________
