@@ -51,15 +51,15 @@ Graphical Results
 •	Stress Alerts for HR Notification
 ________________________________________
 5. How the Project Works (Step-by-Step)
-1.	User Starts the System:
+   User Starts the System:
 o	Webcam and microphone activate to capture real-time data.
-2.	Emotion Detection Process:
+   Emotion Detection Process:
 o	Facial analysis: Detects emotions from video.
 o	Speech analysis: Converts speech to text and evaluates sentiment.
-3.	Task Recommendation:
+   Task Recommendation:
 o	Suggests work activities suited to the detected emotion.
-4.	Historical Mood Tracking:
+   Historical Mood Tracking:
 o	Saves detected emotions into a database for long-term analysis.
-5.	Stress Alert System:
+ Stress Alert System:
 o	Sends alerts to HR if prolonged stress patterns are detected.
 
